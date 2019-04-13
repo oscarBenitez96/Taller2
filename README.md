@@ -1,4 +1,4 @@
-# Taller de GitHub 
+# Taller de GitHub as
 Ejemplo para el taller de GitHub
 
 <p align="center">
